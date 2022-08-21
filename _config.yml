@@ -2,11 +2,11 @@ title: Jason Xing
 subtitle:
 description:
 keywords:
-author: Jason Xing
+author:
 language:
 timezone:
 
-url: http://yoursite.com
+url: https://额.tk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
