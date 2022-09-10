@@ -36,6 +36,22 @@ highlight:
   tab_replace: '    '
   hljs: true
 
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+  plugins:
+    - '@neilsustc/markdown-it-katex'
+  anchors:
+    level: 2
+    collisionSuffix: 't'
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSymbol: ''
+
 index_generator:
   path: ''
   per_page: 10

@@ -1,6 +1,6 @@
 favicon: /avatar.png
 avatar: /avatar.png
-katex: false
+katex: true
 force_https: true
 check_update: true
 
